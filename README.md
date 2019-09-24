@@ -1,1 +1,1 @@
-# PCA_and_clusturing_using_Matlab
+# PCA_and_clustering_using_Matlab
